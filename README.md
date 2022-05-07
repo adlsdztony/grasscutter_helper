@@ -40,6 +40,11 @@ chinese only
 * requirements: pywebio pymongo 服务器版还需要 flask
 * 下载对应版本与data.json，放入同一文件夹，双击运行
 * server版默认端口为8080
+```shell
+git clone https://github.com/TZonyhou/grasscutter_helper.git
+pip install -r requirements.txt
+python generator_local.py
+```
 
 
 # 关于
